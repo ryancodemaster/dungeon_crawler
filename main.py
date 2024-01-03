@@ -40,7 +40,6 @@ shot_fx = pygame.mixer.Sound('assets/audio/arrow_shot.mp3')
 hit_fx = pygame.mixer.Sound('assets/audio/arrow_hit.wav')
 coin_fx = pygame.mixer.Sound('assets/audio/coin.wav')
 potion_fx = pygame.mixer.Sound('assets/audio/heal.wav')
-
 # images loading section
 tile_list = []
 for t in range (18):
